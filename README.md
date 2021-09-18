@@ -18,3 +18,8 @@ You are not able to use... (불가능한 점)
 Please leave bug or anything wrong in the issues page.
 
 --By a developer in Korea--
+
++Add
+Please change the smbios with GenSMBIOS before you use it.
+Also, use only macbookpro14,2 smbios due to anything except macbookpro14,2 wouldn't boot
+due to securerbootmodel problems.
