@@ -1,4 +1,4 @@
-# -LG-15Z980-Monterey-EFI
+# LG-15Z980-Monterey-EFI
 An EFI made for 15Z980 LG GRAM devices supporting Catalina up to Monterey Beta 1.
 Due to the github capacity issues, I had zipped it into a 7z file.
 (Github 용량 문제로 인해 7z 파일로 압축시켰습니다.)
