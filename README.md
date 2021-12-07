@@ -20,5 +20,8 @@ Please leave bug or anything wrong in the issues page.
 +Add
 Please change the smbios with GenSMBIOS before you use it.
 If you are using catalina or big sur, plesase change airportitlwm version, and intelbluetoothfirmware+bluetoolfixup to intelbluetoothfirmware+intelbluetoothinjector.
+Also, Careful for changing smbios, change smbios to another MacBookPro15,2 or change smbios and the model name in the usbmapping Kext.
 
 This EFI's ACPI PART is made refered to https://github.com/suzuke/LG-Gram-13z980-Opencore.
+
+*The EFI is located in the Releases Page Attachment.*
