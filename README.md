@@ -2,6 +2,9 @@
 An EFI made for 15Z980 LG GRAM devices supporting Catalina up to Monterey lastest.
 Due to the github capacity issues, I had zipped it into a 7z file.
 
+Has a little problem. Please refer to this problem issue report written by myself.
+https://github.com/a31user/LG-15Z980-Monterey-EFI/issues/4
+
 You are able to use...
 1. Battery
 2. Bluetooth
