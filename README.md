@@ -21,7 +21,7 @@ You are not able to use...
 2. IPHONE HOTSPOT (UNTESTED BY MYSELF DUE TO I DON'T HAVE A LTE APPLE DEVICE, BUT PROBLEM IS REPORTED)
 
 Untested
-1. Thunderbolt (Added IOELECTRIFY.KEXT and SSDT-DTPG but I couldn't test it
+1. Thunderbolt (Added IOELECTRIFY.KEXT and SSDT-DTPG but I couldn't test it)
 
 Please leave bug or anything wrong in the issues page.
 
