@@ -8,7 +8,7 @@ https://github.com/a31user/LG-15Z980-Monterey-EFI/issues/4
 You are able to use...
 1. Battery
 2. Bluetooth
-3. WIFI (Native) -- *PROBLEM REPORTED* MAYBE DON'T SUPPORT 5GHZ, NO IPHONE HOTSPOT IS NOT WORKING
+3. WIFI (Native) -- *PROBLEM REPORTED* MAYBE DON'T SUPPORT 5GHZ
 4. Sleeping
 5. Touchpad
 6. USB ALL PORTS WORKING (MAPPED) -- Changed to UTBMAP.KEXT+USBTOOLBOX.KEXT TO MAKE USERS CHANGE SMBIOS EASILY WITHOUT CHANGEING THE USB MAPPING KEXT PLIST FILE
@@ -19,6 +19,9 @@ You are able to use...
 You are not able to use...
 1. 5GHZ WIFI (MINE WORKS BUT PROBLEM IS REPORTED)
 2. IPHONE HOTSPOT (UNTESTED BY MYSELF DUE TO I DON'T HAVE A LTE APPLE DEVICE, BUT PROBLEM IS REPORTED)
+
+Untested
+1. Thunderbolt (Added IOELECTRIFY.KEXT and SSDT-DTPG but I couldn't test it
 
 Please leave bug or anything wrong in the issues page.
 
