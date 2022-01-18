@@ -29,6 +29,5 @@ Please leave bug or anything wrong in the issues page.
 Please change the smbios with GenSMBIOS before you use it.
 If you are using catalina or big sur, plesase change airportitlwm version, and intelbluetoothfirmware+bluetoolfixup to intelbluetoothfirmware+intelbluetoothinjector.
 
-This EFI's ACPI PART is made refered to https://github.com/suzuke/LG-Gram-13z980-Opencore.
-
+***Removed Dependency of SSDT made by suzuke***
 *The EFI is located in the Releases Page Attachment.*
